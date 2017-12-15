@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="576.0" prefWidth="750.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Separator layoutY="54.0" opacity="0.41" prefHeight="0.0" prefWidth="750.0" />
+      <TextField layoutX="188.0" layoutY="13.0" prefHeight="25.0" prefWidth="263.0" />
+      <ImageView fitHeight="36.0" fitWidth="94.0" layoutX="51.0" layoutY="17.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../../MiniYT%20photos/téléchargement%20(1).png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="34.0" fitWidth="37.0" layoutX="451.0" layoutY="12.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../../MiniYT%20photos/téléchargement.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="40.0" fitWidth="72.0" layoutX="606.0" layoutY="7.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../../MiniYT%20photos/Capture1.PNG" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="40.0" fitWidth="22.0" layoutX="14.0" layoutY="17.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../../MiniYT%20photos/Capture.PNG" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="405.0" fitWidth="505.0" layoutX="25.0" layoutY="64.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../../MiniYT%20photos/Capture%2010.PNG" />
+         </image>
+      </ImageView>
+      <Separator layoutX="25.0" layoutY="467.0" opacity="0.41" prefHeight="3.0" prefWidth="486.0" />
+      <ImageView fitHeight="117.0" fitWidth="146.0" layoutX="569.0" layoutY="95.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../../MiniYT%20photos/maxresdefault%20(6).jpg" />
+         </image>
+      </ImageView>
+      <Text layoutX="572.0" layoutY="199.0" strokeType="OUTSIDE" strokeWidth="0.0" text="eminem lose yourself [HD]" />
+      <ImageView fitHeight="100.0" fitWidth="146.0" layoutX="569.0" layoutY="226.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../../MiniYT%20photos/Capture%208.PNG" />
+         </image>
+      </ImageView>
+      <Text layoutX="564.0" layoutY="339.0" strokeType="OUTSIDE" strokeWidth="0.0" text="havana camila cabello lyrics" wrappingWidth="155.0" />
+      <ImageView fitHeight="90.0" fitWidth="155.0" layoutX="565.0" layoutY="373.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../../MiniYT%20photos/maxresdefault%20(5).jpg" />
+         </image>
+      </ImageView>
+      <Text layoutX="501.0" layoutY="486.0" strokeType="OUTSIDE" strokeWidth="0.0" text="eminem monster ft rihanna official video vevo " />
+      <Text layoutX="25.0" layoutY="379.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Take me home, country roads - Matt Margeson [ KINGSMAN : THE GOLDEN CIRCLE ( 2017 ) Soundtrack ]" wrappingWidth="344.548828125" />
+      <TextArea layoutX="22.0" layoutY="490.0" prefHeight="52.0" prefWidth="332.0" />
+      <Text layoutX="25.0" layoutY="486.0" strokeType="OUTSIDE" strokeWidth="0.0" text="COMMENTAIRES" />
+   </children>
+</AnchorPane>
